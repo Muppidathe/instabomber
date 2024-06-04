@@ -15,5 +15,5 @@ Easy to Use: Simple and intuitive interface for sending messages.</p>
 </ul>
 <h3>Output</h3>
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="https://github.com/Muppidathe/instabomber/blob/main/instabomber.mp4" type="video/mp4">
 </video>

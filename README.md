@@ -13,3 +13,7 @@ Easy to Use: Simple and intuitive interface for sending messages.</p>
 <li>Chrome WebDriver (or any other browser driver)</li>
 <li>Instagram Account</li>
 </ul>
+<h3>Output</h3>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+</video>
